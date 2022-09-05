@@ -25,7 +25,5 @@ namespace Hello
                 Console.WriteLine("{0} {1}", a, b - 45);
             }
         }
-
-
     }
 }
